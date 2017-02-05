@@ -1,0 +1,2 @@
+/* change to eslintrc.es5.json for ES5 projects */
+{"extends": [ "eslintrc.es6.json"]}

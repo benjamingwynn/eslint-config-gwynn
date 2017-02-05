@@ -1,0 +1,25 @@
+{
+	"extends": [
+		"eslintrc.es6.json"
+	],
+
+	"eslintConfig": {
+		"parserOptions": {
+			"ecmaVersion": 5
+		}
+	},
+
+	"rules": {
+		"no-dupe-class-members": 0,
+		"no-var": 0,
+		"object-shorthand": 0,
+		"prefer-arrow-callback": 0,
+		"prefer-spread": 0,
+		"prefer-template": 0,
+		"init-declarations": 0,
+		"no-restricted-properties": [2, {
+			"property": "forEach",
+			"message": "Use the faster and more-compatible 'for loop' instead."
+		}],
+	}
+}
