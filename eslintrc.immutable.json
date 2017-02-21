@@ -1,0 +1,16 @@
+/*
+    Modified ES6 configuration for use with an immutable object library
+    For example, seamless-immutable (https://github.com/rtfeldman/seamless-immutable)
+*/
+
+{
+	"extends": [
+		"eslintrc.es6.json"
+	],
+
+	"rules": {
+        "vars-on-top": 0,
+        "newline-after-var": 0,
+        "one-var": 0
+	}
+}

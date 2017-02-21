@@ -1,0 +1,10 @@
+/* ESLint configuration for bigbrainmaths.com and other legacy ES5 projects */
+
+{
+	"extends": [
+		"eslintrc.es5.json"
+	],
+
+	"rules": {
+	}
+}
