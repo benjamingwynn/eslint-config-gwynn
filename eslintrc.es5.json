@@ -1,6 +1,6 @@
 {
 	"extends": [
-		"eslintrc.es6.json"
+		"./eslintrc.es6.json"
 	],
 
 	"eslintConfig": {

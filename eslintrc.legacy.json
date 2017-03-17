@@ -2,7 +2,7 @@
 
 {
 	"extends": [
-		"eslintrc.es5.json"
+		"./eslintrc.es5.json"
 	],
 
 	"rules": {
