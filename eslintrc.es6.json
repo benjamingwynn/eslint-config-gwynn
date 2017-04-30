@@ -152,7 +152,7 @@
 		"camelcase": 2,
 		"capitalized-comments": 0,
 		"class-methods-use-this": 2,
-		"comma-dangle": 1,
+		"comma-dangle": [2, "always-multiline"],
 		"comma-spacing": 2,
 		"comma-style": 2,
 		"complexity": 2,
