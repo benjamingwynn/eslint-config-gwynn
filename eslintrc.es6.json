@@ -223,7 +223,7 @@
 		"require-jsdoc": 1,
 		"require-yield":2,
 		"rest-spread-spacing": 2,
-		"semi": 1,
+		"semi": [2, "never"],
 		"semi-spacing": 1,
 		"sort-keys": 1,
 		"sort-imports": 1,
