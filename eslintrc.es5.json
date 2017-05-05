@@ -17,6 +17,8 @@
 		"prefer-spread": 0,
 		"prefer-template": 0,
 		"init-declarations": 0,
+		// no exceptions because no const in es5
+		"comma-style": [1, "first"],
 		"no-restricted-properties": [2, {
 			"property": "forEach",
 			"message": "Use the faster and more-compatible 'for loop' instead."
