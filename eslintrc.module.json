@@ -1,0 +1,9 @@
+{
+	"extends": [
+		"./eslintrc.es6.json"
+	],
+
+	"parserOptions": {
+		"sourceType": "module"
+	}
+}
