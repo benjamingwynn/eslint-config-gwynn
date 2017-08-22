@@ -24,6 +24,7 @@
 		"consistent-return": 0,
 		"no-restricted-properties": 0,
 		"new-cap": 0,
-		"no-underscore-dangle": 0
+		"no-underscore-dangle": 0,
+		"no-continue": 0,
 	}
 }
